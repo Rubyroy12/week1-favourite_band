@@ -2,8 +2,7 @@
 
     /*background-color: teal;*/
     margin: 10px;
-    background-image: url(1D3.png);
-    opacity: 0.9;
+    background-image: url(fband.jpg);
     background-attachment:fixed;
     background-repeat:no-repeat;
     background-size:cover;
@@ -12,25 +11,43 @@
 h1{
     color: aqua;
     text-align: center;
-    font-size: smaller;
-    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size:medium;
 }
 
 h2{
     color: aqua;
     font-family:'Lucida Grande';
     font-size: larger;
-   
+    font-family:Lucida sans-serif;  
+    padding-left: 20px; 
 }
 .frontline{
     text-align: center;
 
 }
+.frontline2{
+    padding-left: 20px;
+}
+#frontlinepost{
+    border: 0.5px aqua;
+    border-style: groove;
+    background-image: url(music2.jpg);
+    background-repeat: repeat;
+
+}
 
 .harry{
     color:rgb(237, 245, 245);
-    border: 1px solid white;
-    
+    border: 0.5px solid aqua;
+
+}
+.liam{
+    border: 0.5px solid aqua;
+}
+
+.Louise{
+    border: 0.5px solid aqua;
 }
 body{
     color: azure;
@@ -42,14 +59,9 @@ a:hover{
     color: rgb(121, 247, 247);
     text-underline-position: auto;
 }
-.liam{
-    border: 1px solid white;
-}
-
-.Louise{
-    border: 1px solid white;
-
-}
 #harry{
     margin-right: 200px;
+}
+ol{
+    font-size: large;
 }
