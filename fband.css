@@ -63,10 +63,7 @@ body{
 a{
     color: aqua;
 }
-a:hover{
-    color: rgb(248, 7, 7);
-    text-underline-position: auto;
-}
+
 a:active{
     color: antiquewhite;
 }
@@ -75,8 +72,13 @@ a:active{
     margin-right: 200px;
     margin-left: 10px;
  }
-ol{
+ol a{
     font-size: large;
+    text-decoration: none;
+}
+ol a:hover{
+    color: #ffd900;
+    text-decoration: underline;
 }
 .navigation{
     background-color: rgb(5, 1, 31);
