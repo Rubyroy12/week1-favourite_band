@@ -25,7 +25,8 @@
 3. git
 
 ## Live site
-view 
+view [live] https://rubyroy12.github.io/week1-favourite_band/
 
 ## License
-
+Copyright 2021 IBRAHIM KIPROTICH
+THIS PROJECTS IS UNDER THE LICENSE OF  MIT
