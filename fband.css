@@ -22,12 +22,18 @@ h2{
     font-family:Lucida sans-serif;  
     padding-left: 20px; 
 }
+h3{
+    
+    font-weight: 20px;
+    margin-left: 15px;
+}
 .frontline{
     text-align: center;
 
 }
 .frontline2{
-    padding-left: 20px;
+    padding-left: 15px;
+    margin-left: 15px;
 }
 #frontlinepost{
 
@@ -35,7 +41,6 @@ h2{
     background-repeat: repeat;
     font-size: larger;
     font-style: oblique;
-
 }
 
 .harry{
@@ -116,6 +121,6 @@ ul{
     color:rgb(8, 230, 200);
     font-weight: 40px;
     text-decoration: none;
-    
+
 
 }
