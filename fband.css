@@ -103,6 +103,8 @@ ol a:hover{
 
     border:1px solid aqua;
     background-color: navy;
+    margin-left: 100px;
+    margin-right: 100px;
     
 }
 .navigation li a{
@@ -120,7 +122,7 @@ ul{
 }
 .navigation li a:hover{
     text-decoration: underline;
-    border: 0.5px solid rgb(1, 27, 27);
+    border: 0.5px solid rgb(151, 136, 2);
     border-width: 10px;
     color:rgb(8, 230, 200);
     font-weight: 40px;
