@@ -3,6 +3,9 @@
 ## Author
 
 * Ibrahim Kiprotich
+## Contributors
+* Denis Kiptoo
+
 # Description
 * It is a website that describes my favourite music band
 
@@ -19,3 +22,7 @@
 ## Technologies used
 1. HTML
 2. CSS
+
+## LICENSE
+* COPYRIGHT 2021 Ibrahim Kiprotich
+* This project is under the license of MIT
