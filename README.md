@@ -23,6 +23,9 @@
 1. HTML
 2. CSS
 
+## Live site
+* View [live](https://rubyroy12.github.io/week1-favourite_band/)
+
 ## LICENSE
 * COPYRIGHT 2021 Ibrahim Kiprotich
 * This project is under the license of MIT
